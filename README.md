@@ -1,6 +1,9 @@
 # e-commerce_frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+State management with [Zustand](https://github.com/pmndrs/zustand)
+Css with tailwindCss [tailwindCss](https://github.com/tailwindlabs/tailwindcss)
+Routing with [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 
 ## Available Scripts
 
